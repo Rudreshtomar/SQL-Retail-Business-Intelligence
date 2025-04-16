@@ -24,12 +24,11 @@ The goal of this project is to perform an end-to-end analysis of retail transact
 
 ## 📁 Project Files
 
-| File Name                  | Description                                      |
-|----------------------------|--------------------------------------------------|
-| `retail_sales_dataset.csv` | Original dataset used for analysis               |
-| `retail_sales_analysis.sql`| SQL queries for cleaning, exploring, and insights|
-| `README.md`                | Project documentation and summary                |
-
+| File Name                | Description                                                  |
+|--------------------------|--------------------------------------------------------------|
+| `Retail Sales Dataset.csv` | Original dataset used for analysis                         |
+| `SQL Queries.sql`         | SQL queries for data cleaning, EDA, and business insights   |
+| `README.md`               | Project documentation and summary 
 ---
 
 ## 📌 Key Insights
